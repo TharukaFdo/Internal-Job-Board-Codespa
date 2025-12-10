@@ -103,7 +103,7 @@ function App() {
                   onChange={handleChange}
                   required
                   maxLength={120}
-                  placeholder="Senior Backend Engineer"
+                  placeholder="Junior Dev"
                   className="w-full rounded-lg border border-slate-200 bg-white px-3.5 py-2.5 text-base text-slate-900 shadow-sm transition focus:border-indigo-500 focus:outline-none focus:ring-2 focus:ring-indigo-100"
                 />
               </div>
@@ -122,7 +122,7 @@ function App() {
                   onChange={handleChange}
                   required
                   maxLength={120}
-                  placeholder="Platform Engineering"
+                  placeholder="Engineering"
                   className="w-full rounded-lg border border-slate-200 bg-white px-3.5 py-2.5 text-base text-slate-900 shadow-sm transition focus:border-indigo-500 focus:outline-none focus:ring-2 focus:ring-indigo-100"
                 />
               </div>
